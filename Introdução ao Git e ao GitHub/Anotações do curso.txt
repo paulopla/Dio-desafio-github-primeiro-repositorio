@@ -1,0 +1,12 @@
+Aprendendo o que é Git e sua importância(O Git é um projeto de código aberto maduro e com manutenção
+ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux)
+Alguns comandos importantes(dir no windows e ls no linux= lista os itens na pasta que vc está
+					mkdir= cria uma pasta
+					cd= navega entre as pastas a frente
+					cd ..= volta a pasta anterior)
+Instalação do git https://git-scm.com/downloads
+Aprendi o funcionamento do git através de linhas de comando
+Foi falado sobre chaves ssh e criptografia SHA1
+Aprendi iniciar o Git Bash e como criar o commit (git commit -m "mensagem relevante com o que está fazendo")
+Posteriormente veio o contato com GitHub (https://github.com/) (Criei minha conta, e também meu primeiro repositório)
+E por fim como os conflitos acontecem e a resolução deles.
